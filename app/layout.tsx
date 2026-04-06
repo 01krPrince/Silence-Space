@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://yourdomain.com"), // 🔥 CHANGE THIS
+  metadataBase: new URL("https://silence-space.vercel.app"),
 
   title: {
     default: "Silence Space – Pause & Breathe",
@@ -40,11 +40,11 @@ export const metadata: Metadata = {
     title: "Silence Space – Pause & Breathe",
     description:
       "Step into silence. A minimal experience to slow down your thoughts.",
-    url: "https://yourdomain.com",
+    url: "https://silence-space.vercel.app",
     siteName: "Silence Space",
     images: [
       {
-        url: "/og.png", // 🔥 add this image in /public
+        url: "/og.png",
         width: 1200,
         height: 630,
       },

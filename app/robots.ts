@@ -6,6 +6,6 @@ export default function robots() {
         allow: "/",
       },
     ],
-    sitemap: "https://yourdomain.com/sitemap.xml",
+    sitemap: "https://silence-space.vercel.app/sitemap.xml",
   };
 }

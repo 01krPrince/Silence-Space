@@ -1,11 +1,11 @@
 export default function sitemap() {
   return [
     {
-      url: "https://yourdomain.com",
+      url: "https://silence-space.vercel.app",
       lastModified: new Date(),
     },
     {
-      url: "https://yourdomain.com/why",
+      url: "https://silence-space.vercel.app/why",
       lastModified: new Date(),
     },
   ];
